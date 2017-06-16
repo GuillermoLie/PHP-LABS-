@@ -1,2 +1,1 @@
-# PHP-LABS-
-PHP Labs
+# PHP-LABS
